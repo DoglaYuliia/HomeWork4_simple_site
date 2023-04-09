@@ -1,0 +1,184 @@
+@import "common.css";
+
+body {
+    color: #000000;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+}
+
+h1 {
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 79px;
+    margin: 150px 0 60px;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    margin-bottom: 52px;
+}
+
+p {
+    color: #727272;
+}
+
+button {
+    padding: 19px 41px 20px;
+    color: #ffffff;
+    margin-top: 65px;
+    background: #34547a;
+    letter-spacing: 0.1em;
+}
+
+.section1 {
+    padding: 80px 20% 140px;
+    background: #eeeff1;
+}
+
+i {
+    font-size: 24px;
+}
+
+.section1-container {
+    max-width: 540px;
+}
+
+.section2 {
+    padding: 112px 20% 100px;
+    background: #ffffff;
+}
+
+.section2 p {
+    max-width: 540px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+nav a:not(:first-of-type) {
+    margin-left: 42px;
+}
+
+nav a {
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+.section3 {
+    background-color: #34547A;
+    height: 250px;
+}
+
+.list-image {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding-inline-start: 0;
+}
+
+.section3 li:not(:first-of-type) {
+    margin-left: 42px;
+}
+
+.section3 ul {
+    width: max-content;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    width: 141px;
+    text-align: center;
+}
+
+img {
+    display: inline-block;
+    padding-top: 100px;
+    margin-right: 20px;
+}
+
+.project {
+    display: inline-block;
+    text-align: left;
+}
+
+.project h3 {
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+}
+
+.project p {
+    margin: 0 auto;
+
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+
+.section4 {
+    height: 1004px;
+    background: #eeeff1;
+}
+
+.section4 h2 {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.section4 p {
+    max-width: 540px;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 57px;
+}
+
+.video {
+    text-align: center;
+}
+
+.iframe {
+    padding-bottom: 100px;
+    margin: 0 auto;
+    max-width: 1110px;
+    height: 600px;
+}
+
+.section4 iframe {
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+h3 {
+    font-weight: 500;
+    padding-top: 50px;
+    font-size: 21px;
+    line-height: 25px;
+    color: #ffffff;
+}
+
+.section5 {
+    background: #34547a;
+    padding-left: 405px;
+    height: 151px;
+}
+
+.section5 p {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    color: #ffffff;
+    margin: 20px 0 50px;
+}
